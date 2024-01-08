@@ -195,10 +195,10 @@ a:hover{
 
 @media(max-width:450px){
   .section__pic-container{
-    height: 220px;
+    height: 270px;
   }
   .section__pic-container img{
-    height: 220px;
+    height: 270px;
   }
 }
 
